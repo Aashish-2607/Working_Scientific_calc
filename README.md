@@ -4,8 +4,7 @@ A sleek, responsive, and fully functional scientific calculator built with **Van
 
 ## 🚀 Live Demo
 Check out the live application here: 
-[https://scientificcalculator260.netlify.app/](https://scientificcalculator260.netlify.app/)
-
+(https://working-scientific-calc-i47e.vercel.app/)
 ---
 
 ## ✨ Features
